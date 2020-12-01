@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Регулярки", "Регулярки\Регулярки.csproj", "{5404DE61-B844-4E2B-B63F-59BE8E03EEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практикум", "Практикум\Практикум.csproj", "{EC774CDE-5CF7-4C0E-9B4F-2D1016FAD117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5404DE61-B844-4E2B-B63F-59BE8E03EEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5404DE61-B844-4E2B-B63F-59BE8E03EEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5404DE61-B844-4E2B-B63F-59BE8E03EEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5404DE61-B844-4E2B-B63F-59BE8E03EEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC774CDE-5CF7-4C0E-9B4F-2D1016FAD117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC774CDE-5CF7-4C0E-9B4F-2D1016FAD117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC774CDE-5CF7-4C0E-9B4F-2D1016FAD117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC774CDE-5CF7-4C0E-9B4F-2D1016FAD117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6923BF29-E5A8-4645-9DA5-D1FE3D7C9B83}
+	EndGlobalSection
+EndGlobal
